@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+}
+nav {
+    background-color: #1aff1a;
+    padding: 10px 0;
+}
+
+nav, section {
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+    margin: 0;
+    padding:0; 
+}
+
+nav ul li {
+}
